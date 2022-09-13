@@ -1,0 +1,28 @@
+.title {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    font-size: 45px;
+}
+#title {
+    color: cyan;
+    font-family: monospace;
+    font-size: 45px;
+}
+.subtitle {
+    background-color: rgb(114, 36, 187);
+    color: white;
+    font-family: monospace;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: center;
+}
+.contact {
+    background-color: lightblue;
+    color: rgb(68, 66, 66);
+    font-family: monospace;
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: right;
+}
